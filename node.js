@@ -1,4 +1,5 @@
 // Open https://m.facebook.com/{{YOUR USER ID}}/friends in google chrome desktop
+// Run everything in developer console
 var incrementScroll = function () {
   window.scrollTo(0, document.body.scrollHeight);
 };
